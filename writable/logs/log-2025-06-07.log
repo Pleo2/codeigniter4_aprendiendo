@@ -1,0 +1,198 @@
+CRITICAL - 2025-06-07 16:57:08 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:07 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:07 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:12 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:13 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:13 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:13 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:13 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:13 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:14 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:14 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::helloWorld(), 0 passed in C:\Users\leona\OneDrive\Escritorio\codeigniter4_aprendiendo\system\CodeIgniter.php on line 933 and exactly 2 expected
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 16:59:27 --> ErrorException: Undefined variable $slug
+[Method: GET, Route: helloworld]
+in APPPATH\Controllers\Home.php on line 15.
+ 1 APPPATH\Controllers\Home.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $slug', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\Home.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->helloWorld()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 22:28:14 --> ErrorException: Undefined global variable $_SESSION
+[Method: GET, Route: otpauth]
+in APPPATH\Controllers\OtpAuth.php on line 9.
+ 1 APPPATH\Controllers\OtpAuth.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\OtpAuth.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\OtpAuth->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OtpAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 22:28:22 --> ErrorException: Undefined global variable $_SESSION
+[Method: GET, Route: otpauth]
+in APPPATH\Controllers\OtpAuth.php on line 9.
+ 1 APPPATH\Controllers\OtpAuth.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\OtpAuth.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\OtpAuth->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OtpAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 22:28:23 --> ErrorException: Undefined global variable $_SESSION
+[Method: GET, Route: otpauth]
+in APPPATH\Controllers\OtpAuth.php on line 9.
+ 1 APPPATH\Controllers\OtpAuth.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\OtpAuth.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\OtpAuth->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OtpAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 22:28:23 --> ErrorException: Undefined global variable $_SESSION
+[Method: GET, Route: otpauth]
+in APPPATH\Controllers\OtpAuth.php on line 9.
+ 1 APPPATH\Controllers\OtpAuth.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\OtpAuth.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\OtpAuth->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OtpAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 22:28:45 --> ErrorException: Undefined property: App\Controllers\OtpAuth::$session
+[Method: GET, Route: otpauth]
+in APPPATH\Controllers\OtpAuth.php on line 9.
+ 1 APPPATH\Controllers\OtpAuth.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\OtpAuth::$session', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\OtpAuth.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\OtpAuth->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OtpAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 22:28:45 --> ErrorException: Undefined property: App\Controllers\OtpAuth::$session
+[Method: GET, Route: otpauth]
+in APPPATH\Controllers\OtpAuth.php on line 9.
+ 1 APPPATH\Controllers\OtpAuth.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\OtpAuth::$session', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\OtpAuth.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\OtpAuth->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OtpAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')
+CRITICAL - 2025-06-07 22:29:18 --> ErrorException: Undefined property: App\Controllers\OtpAuth::$session
+[Method: GET, Route: otpauth]
+in APPPATH\Controllers\OtpAuth.php on line 9.
+ 1 APPPATH\Controllers\OtpAuth.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\OtpAuth::$session', 'C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\app\\Controllers\\OtpAuth.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\OtpAuth->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OtpAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\leona\\OneDrive\\Escritorio\\codeigniter4_aprendiendo\\public\\index.php')

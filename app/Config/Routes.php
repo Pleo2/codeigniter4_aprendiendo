@@ -8,3 +8,6 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Home::index');
 $routes->get('/helloworld', 'Home::helloWorld');
 $routes->get('/otpauth', 'OtpAuth::index');
+$routes->get('/otpauth/helloworld', 'OtpAuth::helloworld');
+$routes->get('/otpauth/generateOtp', 'OtpAuth::generateOtp');
+

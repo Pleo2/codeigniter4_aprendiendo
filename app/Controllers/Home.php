@@ -12,7 +12,7 @@ class Home extends BaseController
 
     public function helloWorld(): string
     {
-        echo "Hello, World! function in the Home Controller";
+        echo "Hello, World! function in the Home Controller ";
         return view('welcome_message');
     }
 }
